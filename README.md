@@ -1,6 +1,6 @@
 # PubTatorGPT: GPTs augmented by PubTator 3.0
+This is the guidance of prominent configurations for customed GPTs with PubTator augmentation.
 
-## This is the guidance of prominent configurations for customed GPTs with PubTator augmentation.
   **Step 1: Login your OpenAI account and slect "Explore" to find "Creat a GPT".**
   
   **Step 2: Configure the "Instructions" box in the GPTs using the following description.**
