@@ -49,11 +49,11 @@
     
   - Action: FindRelatedEntity
     
-   Confirmation Link: https://www.ncbi.nlm.nih.gov/research/pubtator3-api/relations
+    Confirmation Link: https://www.ncbi.nlm.nih.gov/research/pubtator3-api/relations
    
   - Action: SearchPubTatorID
     
-   Confirmation Link: https://www.ncbi.nlm.nih.gov/research/pubtator3-api/search/
+    Confirmation Link: https://www.ncbi.nlm.nih.gov/research/pubtator3-api/search/
 
 **Step 3: Click "Actions" option and Open the schema setting, then put the following texts in the "Schema" box.**
 
