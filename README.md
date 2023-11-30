@@ -1,4 +1,4 @@
-# pubtator-gpt
+# PubTatorGPT: GPTs augmented by PubTator 3.0
 
 ## This is the guidance of prominent configurations for customed GPTs with PubTator augmentation.
   **Step 1: Login your OpenAI account and slect "Explore" to find "Creat a GPT".**
